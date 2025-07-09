@@ -11,7 +11,7 @@ CX = os.getenv("GOOGLE_CSE_ID")
 
 print(API_KEY, CX)
 
-company_names = ['miramar real estate', 'Taqa']
+company_names = ['abc', 'Taqa']
 
 def get_company_website(company_name):
     #print(f"\n🔍 Searching Google for: {company_name}")
